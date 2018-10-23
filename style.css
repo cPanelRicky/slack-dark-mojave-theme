@@ -1,5 +1,5 @@
 :root {
-	--primary: #09F;
+	--primary: #D2B877;
 	--text: rgb(210, 184, 119);
 	--background: rgb(12, 12, 12);
 	--background-elevated: rgb(33, 31, 25);
@@ -15,7 +15,7 @@
 
 	--text-bright: #FFF;
 	--text-special: var(--primary);
-	--text-grey: #717274;
+	--text-grey: #f2e9d2;
 
 	--scrollbar-background: rgb(120, 120, 120);
 	--scrollbar-border: rgb(120, 120, 120);
