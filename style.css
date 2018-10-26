@@ -1192,6 +1192,9 @@ ts-jumper ts-jumper-container {
 	background-color: var(--primary) !important;
 	color: var(--text-black) !important; 
 }
+.ql-placeholder { 
+        color: var(--text-black) !important;
+}
 
 /* modal transition */
 #fs_modal_bg, .fs_modal_bg {
