@@ -1188,8 +1188,7 @@ ts-jumper ts-jumper-container {
 	color: var(--text);
 }
 
-#header_search_form,
-#search_terms, {
+#header_search_form, #search_terms {
 	background-color: var(--primary) !important;
 	color: var(--text-black) !important; 
 }
