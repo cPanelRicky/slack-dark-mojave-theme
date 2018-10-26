@@ -100,7 +100,7 @@ __TODO-highlight-indicator {
 }
 
 #msgs_scroller_div::-webkit-scrollbar-track, .client_container,
-#search_terms, #footer, ts-message, .channel_header, ts-jumper ts-jumper-container,
+#footer, ts-message, .channel_header, ts-jumper ts-jumper-container,
 ts-jumper input[type="text"],
 .supports_custom_scrollbar:not(.slim_scrollbar) #col_channels:hover #channels_scroller::-webkit-scrollbar-track,
 #channel_header_info, #channel_topic_text, #channel_topic_text code, #edit_topic_inner:before,
@@ -1188,7 +1188,8 @@ ts-jumper ts-jumper-container {
 	color: var(--text);
 }
 
-#search_container {
+#header_search_form,
+#search_terms, {
 	background-color: var(--primary) !important;
 	color: var(--text-black) !important; 
 }
