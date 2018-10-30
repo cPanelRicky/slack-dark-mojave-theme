@@ -1,7 +1,7 @@
 :root {
 	--primary: #D2B877;
 	--text: rgb(210, 184, 119);
-	--background: rgb(12, 12, 12);
+	--background: rgb(05, 05, 05);
 	--background-elevated: rgb(33, 31, 25);
 	--color-highlight: rgb(43, 107, 149);
 
@@ -11,17 +11,17 @@
 	--background-bright: #FFF;
 
 	--border-dim: #666;
-	--border-bright: rgb(85, 85, 85);
+	--border-bright: rgb(247, 241, 227);
 
 	--text-bright: #FFF;
 	--text-special: var(--primary);
-	--text-grey: #b2b0ab;
+	--text-grey: #edebe6;
 	--text-black: #000000;
 
-	--scrollbar-background: rgb(120, 120, 120);
-	--scrollbar-border: rgb(120, 120, 120);
+	--scrollbar-background: var(--primary);
+	--scrollbar-border: var(--primary);
 
-	--active-icon: rgb(209, 209, 209);
+	--active-icon: rgb(232, 204, 134);
 }
 
 
